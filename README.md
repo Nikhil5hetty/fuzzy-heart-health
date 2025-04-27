@@ -1,4 +1,4 @@
-# IVDA_Something_Professional
+# Fuzzy Sets and Systems 2
 
 ## Starting the Django development server
 
