@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Glory', sans-serif;
+    font-style: normal;
+    font-weight: 1200;
+    font-size: 48px;
+    line-height: 54px;
+    color: #16195E;
+}
+
+h3 {
+    font-family: 'Glory', sans-serif;
+    font-style: normal;
+    font-weight: 1200;
+    font-size: 20px;
+    line-height: 54px;
+    color: #16195E;
+}
+
+body {
+    font-family: 'Glory', sans-serif;
+    font-style: normal;
+    background-color: #E5E5E5;
+}
+
+.main-container{
+    background-color: white;
+}
