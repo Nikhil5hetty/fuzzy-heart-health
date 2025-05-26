@@ -23,3 +23,9 @@ cd ./frontend <br />
 npm start
 
 visit http://localhost:3000/ to verify
+
+#### Jupyter notebook includes data preprocessing naive bayes and fuzzy knn implementation
+
+stroke_preprocess_model.ipynb 
+
+
